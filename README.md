@@ -29,6 +29,14 @@ The Study It app was creaeted for a myself and a few other classmates of mine wh
 
 View here: [Study It](https://study-app-koro.netlify.app/)
 
+## GPA Calculator
+C++ 
+
+My first C++ project after learning basic syntax, will calcute CGPA and SGPA based on the users credits and final score in the class.
+
+View repository: [GPA Calculator](https://github.com/JakeKorobellis/GPA-Calculator)
+
+
 ## Work Weather app - Mobile Only
 React.js, Javscript, HTML/CSS, and a variety of NPM Modules.
 
@@ -37,3 +45,14 @@ Interesting story to this project, per the repository it is easy to see the ugli
 View here: [Mobile Weather](https://work-weather-app.netlify.app/)
 
 ## Work in Progress: 
+
+## Blog Post 
+
+Frontend - React.js  
+Backend - Node.js  
+Database - Mongodb   
+Technologies - Passport.js, JSON Web Token, Express.
+
+Current work in progress, however this will be a Full-Stack web app utlizing the listed languages/technologies. Users are currently able to create an accout, login, like/dislike posts, and edit account settings after being authenticated. Admin access allows users to post on the blog itself.   
+
+View repository: [Blog Post](https://github.com/JakeKorobellis/blog_post_fullstack)
