@@ -22,7 +22,7 @@ Utlilzies the Coin Gecko API to display data of top Crypto coins, coin categorie
 
 View here: [Market Scrape](https://react-market-dash.netlify.app/)
 
-## Market Scrape
+## Live ETH Chart
 Vanialla Javascript, html, css, Web Socket, and a vartiey of NPM Modules.
 
 This project was to further my javascript skills. This utlizes Alpaca's free API to stream incoming quotes, candles and orders to disply live on a chart and feed. The chart looks empty due to the frequency of trades taking place on Alpacas exchange. Prior to the 3rd version of the alpaca API, data was provied on various exchnages, however that is no longer the case. 
