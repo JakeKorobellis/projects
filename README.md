@@ -63,3 +63,15 @@ Technologies - Passport.js, JSON Web Token, Express.
 Current work in progress, however this will be a Full-Stack web app utlizing the listed languages/technologies. Users are currently able to create an accout, login, like/dislike posts, and edit account settings after being authenticated. Admin access allows users to post on the blog itself.   
 
 View repository: [Blog Post](https://github.com/JakeKorobellis/blog_post_fullstack)
+
+## NewsRoom 
+
+Frontend - React.js  
+Backend - Node.js  
+Database - Mongodb   
+Technologies - Passport.js, Express, and a variety of NPM Modules. 
+
+Full-Stack web app utlizing the listed languages/technologies. Users will be able to view current news, both past and a curent news occuring live via a stream using mutlple API's such as CoinGecko and Alpaca. 
+
+View repository: [NewsRoom](https://github.com/JakeKorobellis/NewsApp)
+
