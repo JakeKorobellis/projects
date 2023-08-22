@@ -1,5 +1,5 @@
 
-## Finalized Projects:
+## Notable Projects:
 
 ## Quizzly.io 
 React.js, Javascript, and HTML/CSS and a variety of NPM Modules.
