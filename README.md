@@ -74,5 +74,6 @@ Technologies - Passport.js, Express, and a variety of NPM Modules.
 Full-Stack web app utlizing the listed languages/technologies. Users will be able to view current news, both past and a curent news occuring live via a stream using mutlple API's such as CoinGecko and Alpaca. 
 
 View repository: [NewsRoom](https://github.com/JakeKorobellis/NewsApp)
+
 Demo: [NewsRoom - Demo](https://newsroom-demo.netlify.app/)
 
