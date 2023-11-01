@@ -53,16 +53,15 @@ View here: [Mobile Weather](https://work-weather-app.netlify.app/)
 
 ## Work in Progress: 
 
-## Blog Post 
+## Stock Analysis 
 
-Frontend - React.js  
-Backend - Node.js  
-Database - Mongodb   
-Technologies - Passport.js, JSON Web Token, Express.
+Language - Python 
+API - Yahoo Finance 
+Technologies - Various Python Libaries.
 
-Current work in progress, however this will be a Full-Stack web app utlizing the listed languages/technologies. Users are currently able to create an accout, login, like/dislike posts, and edit account settings after being authenticated. Admin access allows users to post on the blog itself.   
+Current work in progress, still deciding on building out a GUI or making this an API, or both! Using OOP practices, users will be able to request various types of data from the financial market along with preform a varity of analysis, such as predictive models based on machine learning algorithms. 
 
-View repository: [Blog Post](https://github.com/JakeKorobellis/blog_post_fullstack)
+View repository: [Python Stock Analysis](https://github.com/jkor2/Python-Stock_Data-Projext)
 
 ## NewsRoom 
 
