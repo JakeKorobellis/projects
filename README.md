@@ -75,5 +75,5 @@ Full-Stack web app utlizing the listed languages/technologies. Users will be abl
 View repository: [NewsRoom](https://github.com/JakeKorobellis/NewsApp)
 
 
-Demo: [NewsRoom - Demo](https://newsroom-demo.netlify.app/)
+Demo: [NewsRoom - Demo](https://demo-newsroom.netlify.app/)
 
