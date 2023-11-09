@@ -61,6 +61,7 @@ Technologies - Various Python Libaries.
 
 Current work in progress, still deciding on building out a GUI or making this an API, or both! Using OOP practices, users will be able to request various types of data from the financial market along with preform a varity of analysis, such as predictive models based on machine learning algorithms. 
 
+Live Demo: [Demo](https://www.youtube.com/watch?v=94ulqcBaaxY)
 View repository: [Python Stock Analysis](https://github.com/jkor2/Python-Stock_Data-Projext)
 
 ## NewsRoom 
