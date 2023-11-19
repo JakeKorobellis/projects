@@ -78,5 +78,5 @@ Full-Stack web app utlizing the listed languages/technologies. Users will be abl
 View repository: [NewsRoom](https://github.com/jkor2/NewsApp)
 
 
-Demo: [NewsRoom - Demo](https://dem0-news-app.netlify.app/)
+Live Demo: [NewsRoom - Demo](https://newsroom-live.netlify.app/)
 
