@@ -56,7 +56,9 @@ View here: [Mobile Weather](https://work-weather-app.netlify.app/)
 ## Stock Analysis 
 
 Language - Python 
-API - Yahoo Finance 
+
+API - Yahoo Finance
+
 Technologies - Various Python Libaries.
 
 Current work in progress, still deciding on building out a GUI or making this an API, or both! Using OOP practices, users will be able to request various types of data from the financial market along with preform a varity of analysis, such as predictive models based on machine learning algorithms. 
