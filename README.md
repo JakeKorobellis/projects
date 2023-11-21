@@ -71,7 +71,9 @@ Video Demo: [Demo](https://www.youtube.com/watch?v=94ulqcBaaxY)
 ## Optomize my Haircut 
 
 Language: Python 
+
 Technologies: OpenCV
+
 Features: Facial Detection, Landmark Detection, Facial Shape Calculation
 
 FacialShape is a Python application powered by OpenCV for facial landmark detection. It assists users in optimizing their haircuts based on their facial shape.
