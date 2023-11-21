@@ -68,6 +68,16 @@ View repository: [Python Stock Analysis](https://github.com/jkor2/Python-Stock_D
 
 Video Demo: [Demo](https://www.youtube.com/watch?v=94ulqcBaaxY)
 
+## Optomize my Haircut 
+
+Language: Python 
+Technologies: OpenCV
+Features: Facial Detection, Landmark Detection, Facial Shape Calculation
+
+FacialShape is a Python application powered by OpenCV for facial landmark detection. It assists users in optimizing their haircuts based on their facial shape.
+
+View Repository: [Optimal Haircut](https://github.com/jkor2/facial_recog/tree/main)
+
 ## NewsRoom 
 
 Frontend - React.js  
