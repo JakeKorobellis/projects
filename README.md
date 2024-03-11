@@ -1,6 +1,50 @@
 
 ## Notable Projects:
 
+## Stock Analysis 
+
+Language - Python 
+
+API - Yahoo Finance
+
+Technologies - Various Python Libaries.
+
+Current work in progress, still deciding on building out a GUI or making this an API, or both! Using OOP practices, users will be able to request various types of data from the financial market along with preform a varity of analysis, such as predictive models based on machine learning algorithms. 
+
+View repository: [Python Stock Analysis](https://github.com/jkor2/Python-Stock_Data-Projext)
+
+
+Video Demo: [Demo](https://www.youtube.com/watch?v=94ulqcBaaxY)
+
+## Optomize my Haircut 
+
+Language: Python 
+
+
+Technologies: OpenCV
+
+
+Features: Facial Detection, Landmark Detection, Facial Shape Calculation
+
+
+FacialShape is a Python application powered by OpenCV for facial landmark detection. It assists users in optimizing their haircuts based on their facial shape.
+
+View Repository: [Optimal Haircut](https://github.com/jkor2/facial_recog/tree/main)
+
+## NewsRoom 
+
+Frontend - React.js  
+Backend - Node.js  
+Database - Mongodb   
+Technologies - Passport.js, Express, and a variety of NPM Modules. 
+
+Full-Stack web app utlizing the listed languages/technologies. Users will be able to view current news, both past and a curent news occuring live via a stream using mutlple API's such as CoinGecko and Alpaca. 
+
+View repository: [NewsRoom](https://github.com/jkor2/NewsApp)
+
+
+Live Demo: [NewsRoom - Demo](https://newsroom-live.netlify.app/)
+
 ## Quizzly.io 
 React.js, Javascript, and HTML/CSS and a variety of NPM Modules.
 
@@ -51,49 +95,6 @@ Interesting story to this project, per the repository it is easy to see the ugli
 
 View here: [Mobile Weather](https://work-weather-app.netlify.app/)
 
-## Stock Analysis 
-
-Language - Python 
-
-API - Yahoo Finance
-
-Technologies - Various Python Libaries.
-
-Current work in progress, still deciding on building out a GUI or making this an API, or both! Using OOP practices, users will be able to request various types of data from the financial market along with preform a varity of analysis, such as predictive models based on machine learning algorithms. 
-
-View repository: [Python Stock Analysis](https://github.com/jkor2/Python-Stock_Data-Projext)
-
-
-Video Demo: [Demo](https://www.youtube.com/watch?v=94ulqcBaaxY)
-
-## Optomize my Haircut 
-
-Language: Python 
-
-
-Technologies: OpenCV
-
-
-Features: Facial Detection, Landmark Detection, Facial Shape Calculation
-
-
-FacialShape is a Python application powered by OpenCV for facial landmark detection. It assists users in optimizing their haircuts based on their facial shape.
-
-View Repository: [Optimal Haircut](https://github.com/jkor2/facial_recog/tree/main)
-
-## NewsRoom 
-
-Frontend - React.js  
-Backend - Node.js  
-Database - Mongodb   
-Technologies - Passport.js, Express, and a variety of NPM Modules. 
-
-Full-Stack web app utlizing the listed languages/technologies. Users will be able to view current news, both past and a curent news occuring live via a stream using mutlple API's such as CoinGecko and Alpaca. 
-
-View repository: [NewsRoom](https://github.com/jkor2/NewsApp)
-
-
-Live Demo: [NewsRoom - Demo](https://newsroom-live.netlify.app/)
 
 ## Work in Progress: 
 
