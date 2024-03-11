@@ -88,13 +88,14 @@ My first C++ project after learning basic syntax, will calcute CGPA and SGPA bas
 View repository: [GPA Calculator](https://github.com/JakeKorobellis/GPA-Calculator)
 
 
+## Work Based Projects: 
+
 ## Work Weather app - Mobile Only
-React.js, Javscript, HTML/CSS, and a variety of NPM Modules.
+Python & BS4
 
-Interesting story to this project, per the repository it is easy to see the uglinessness of the code structure, however this is due to the speed in which it was creaetd. In the postion of an event director monitoring the weather specifally for precipitation amount (inches) and precipitation probability is cruical. The motivation of this project was we needed the most accurate data possible for out given location. Therfore, I created a mobile only web based weather app to display the most accurate data using an open source weather API while getting rid of the uneeded extras. **Mobile Only**
+In this project I developed an automated tool to streamline the collection of event data from designated URLs, aimed at enhancing work efficiency by eliminating the need for manual data extraction. Motivated by the desire to automate the repetitive task of searching for event information on websites, this tool employs automated scraping techniques to accurately gather and organize key event details such as tournament names, dates, locations, and age groups. This solution not only saves significant time and effort but also ensures the reliability and structure of the collected data while handling all possible cases involved in event strcuture.
 
-View here: [Mobile Weather](https://work-weather-app.netlify.app/)
-
+View here: [Repository](https://github.com/jkor2/event_scrapper)
 
 ## Work in Progress: 
 
