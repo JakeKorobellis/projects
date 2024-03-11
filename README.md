@@ -43,7 +43,7 @@ Full-Stack web app utlizing the listed languages/technologies. Users will be abl
 View repository: [NewsRoom](https://github.com/jkor2/NewsApp)
 
 
-Live Demo: [NewsRoom - Demo](https://newsroom-live.netlify.app/)
+Live Here: [NewsRoom](https://newsroom-live.netlify.app/)
 
 ## Quizzly.io 
 React.js, Javascript, and HTML/CSS and a variety of NPM Modules.
