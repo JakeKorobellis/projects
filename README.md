@@ -9,7 +9,7 @@ API - Yahoo Finance
 
 Technologies - Various Python Libaries.
 
-Current work in progress, still deciding on building out a GUI or making this an API, or both! Using OOP practices, users will be able to request various types of data from the financial market along with preform a varity of analysis, such as predictive models based on machine learning algorithms. 
+Users are be able to request various types of data from the financial market along with preform a varity of analysis, such as predictive analysis, news headline text sentiment, and technical indicator analysis. 
 
 View repository: [Python Stock Analysis](https://github.com/jkor2/Python-Stock_Data-Projext)
 
