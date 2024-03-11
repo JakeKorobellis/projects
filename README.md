@@ -51,8 +51,6 @@ Interesting story to this project, per the repository it is easy to see the ugli
 
 View here: [Mobile Weather](https://work-weather-app.netlify.app/)
 
-## Work in Progress: 
-
 ## Stock Analysis 
 
 Language - Python 
@@ -96,4 +94,7 @@ View repository: [NewsRoom](https://github.com/jkor2/NewsApp)
 
 
 Live Demo: [NewsRoom - Demo](https://newsroom-live.netlify.app/)
+
+## Work in Progress: 
+
 
