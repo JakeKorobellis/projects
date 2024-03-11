@@ -90,10 +90,10 @@ View repository: [GPA Calculator](https://github.com/JakeKorobellis/GPA-Calculat
 
 ## Work Based Projects: 
 
-## Work Weather app - Mobile Only
+## Event Scrapper
 Python & BS4
 
-In this project I developed an automated tool to streamline the collection of event data from designated URLs, aimed at enhancing work efficiency by eliminating the need for manual data extraction. Motivated by the desire to automate the repetitive task of searching for event information on websites, this tool employs automated scraping techniques to accurately gather and organize key event details such as tournament names, dates, locations, and age groups. This solution not only saves significant time and effort but also ensures the reliability and structure of the collected data while handling all possible cases involved in event strcuture.
+In this project I developed an automated tool to streamline the collection of event data from designated URLs, aimed at enhancing work efficiency by eliminating the need for manual data extraction. Motivated by the desire to automate the repetitive task of searching for event information on websites, this tool employs automated scraping techniques to accurately gather and organize key event details such as tournament names, dates, locations, and age groups. This solution not only saves significant time and effort by cutting extraction time down from 6hrs to 30min, but also ensures the reliability and structure of the collected data while handling all possible cases involved in event strcuture.
 
 View here: [Repository](https://github.com/jkor2/event_scrapper)
 
