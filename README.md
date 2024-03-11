@@ -109,4 +109,12 @@ View [Scrappers](https://github.com/jkor2/Baseball_Reference_Scrapper)
 
 View [API](https://github.com/jkor2/bball-API)
 
+## Employee Onboarder
+Javascript, React.JS, Express, Node.JS, & MongoDB
+
+Currently creating a solution to oboarding tracking processess that I have experienced. I am creating an API to handle CRUD operations with Express and Node.JS, implementing MongoDB to store all data securley, and employing React.JS and Javascript to make a friendly UI. 
+
+View here: [Repository](https://github.com/jkor2/EasyOnboard)
+
+
 
