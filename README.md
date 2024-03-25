@@ -45,57 +45,6 @@ View repository: [NewsRoom](https://github.com/jkor2/NewsApp)
 
 Live Here: [NewsRoom](https://newsroom-live.netlify.app/)
 
-## Quizzly.io 
-React.js, Javascript, and HTML/CSS and a variety of NPM Modules.
-
-Utlilzies a Trivia question API to fetch 10 random questions at random difficulties based upon the category the user selects.
-
-View here: [Quizzly.io](https://quizzly-io.netlify.app/)
-
-## Chess Kingdom 
-React.js, Javscript, HTML/CSS, and a variety of NPM Modules.
-
-Utlilzies the Chess.com API to display data of top ranked players in mutliple categories, title player data, player stats, recent games, clubs, country clubs, and those live streaming on twitch. 
-
-View here: [Chess Kingdom](https://chesskingdom.netlify.app/)
-
-## Market Scrape
-React.js, Javscript, HTML/CSS, and a variety of NPM Modules.
-
-Utlilzies the Coin Gecko API to display data of top Crypto coins, coin categories, coin data on search, exchange data, derivatives data, charts, money supply, cpi data, yield data, news, and currecny exchange rates. 
-
-View here: [Market Scrape](https://react-market-dash.netlify.app/)
-
-## Live ETH Chart
-Vanialla Javascript, html, css, Web Socket, and a vartiey of NPM Modules.
-
-This project was to further my javascript skills. This utlizes Alpaca's free API to stream incoming quotes, candles and orders to disply live on a chart and feed. The chart looks empty due to the frequency of trades taking place on Alpacas exchange. Prior to the 3rd version of the alpaca API, data was provied on various exchnages, however that is no longer the case. 
-
-View here: [ETH Live - Alpaca Exchange](https://eth-track-alpaca.netlify.app/)
-
-## Study It
-React.js, Javascript, HTML/CSS, and a variety of NPM Modules.
-
-The Study It app was creaeted for a myself and a few other classmates of mine who struggled with concentration when attempting to study for longer periods of times. This utlizes a count down clock that cycles in intervals to indicate taking a break of different amounts of times basede on the current interval the user is in. **Pomodoro study technique**  
-
-View here: [Study It](https://study-app-koro.netlify.app/)
-
-## GPA Calculator
-C++ 
-
-My first C++ project after learning basic syntax, will calcute CGPA and SGPA based on the users credits and final score in the class.
-
-View repository: [GPA Calculator](https://github.com/JakeKorobellis/GPA-Calculator)
-
-
-## Work Based Projects: 
-
-## Event Scrapper
-Python & BS4
-
-In this project I developed an automated tool to streamline the collection of event data from designated URLs, aimed at enhancing work efficiency by eliminating the need for manual data extraction. Motivated by the desire to automate the repetitive task of searching for event information on websites, this tool employs automated scraping techniques to accurately gather and organize key event details such as tournament names, dates, locations, and age groups. This solution not only saves significant time and effort by cutting extraction time down from 6hrs to 30min, but also ensures the reliability and structure of the collected data while handling all possible cases involved in event strcuture.
-
-View here: [Repository](https://github.com/jkor2/event_scrapper)
 
 ## Work in Progress: 
 
@@ -108,13 +57,3 @@ View [Scrappers](https://github.com/jkor2/Baseball_Reference_Scrapper)
 
 
 View [API](https://github.com/jkor2/bball-API)
-
-## Employee Onboarder
-Javascript, React.JS, Express, Node.JS, & MongoDB
-
-Currently creating a solution to oboarding tracking processess that I have experienced. I am creating an API to handle CRUD operations with Express and Node.JS, implementing MongoDB to store all data securley, employing React.JS and Javascript to make a friendly UI, and ensuring responsive across all devices with Bootstrap.
-
-View here: [Repository](https://github.com/jkor2/EasyOnboard)
-
-
-
