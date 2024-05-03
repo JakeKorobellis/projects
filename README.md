@@ -16,7 +16,7 @@ View repository: [Python Stock Analysis](https://github.com/jkor2/Python-Stock_D
 
 Video Demo: [Demo](https://www.youtube.com/watch?v=94ulqcBaaxY)
 
-## Optomize my Haircut 
+## Haircut Optomizer 
 
 Language: Python 
 
