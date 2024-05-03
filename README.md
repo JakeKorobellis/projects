@@ -49,9 +49,12 @@ Live Here: [NewsRoom](https://newsroom-live.netlify.app/)
 ## Work in Progress: 
 
 ## Sell Options
-Python, Flask, & MongoDB.
 
-I'm currently developing an advanced Stock Options platform that provides detailed analyses of potential traders that facilitate credit collection. The project entails scraping public options data, building a Flask API, and using MongoDB for efficient data storage and management. My primary goal is to enhance my skills in API development, while automating the process of manual calculation. Credit calcualtions will be available on the projects Readme.
+Frontend: React.js & Bootstrap.
+Backend: Python & Flask.
+Database: MongoDB
+
+I'm currently developing an advanced Stock Options platform that provides detailed analyses of potential traders that facilitate credit collection. The project entails scraping public options data, building a Flask API, and using MongoDB for efficient data storage and management. My primary goal is to enhance my skills in API development, while automating the process of manual calculation. Credit calculations will be available on the projects Readme.
 
 View [Repository](https://github.com/jkor2/Sell_Options)
 
