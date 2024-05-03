@@ -48,12 +48,11 @@ Live Here: [NewsRoom](https://newsroom-live.netlify.app/)
 
 ## Work in Progress: 
 
-## Baseball Stats API
-Python, Node.JS, Express, MongoDB.
+## Sell Options
+Python, Flask, & MongoDB.
 
-Currently creating a comprehensive Baseball Data API that serves detailed information on 23,000 current and previous players. The project involves scraping public-facing baseball data, developing an API using Express/Node.js, and utilizing MongoDB for data storage and management. Ultimatley looking to further my knoweldge on API devlopment. 
+Currently creating a comprehensive Stock Options that serves detailed analysis of potential traders and crecit colletion. The project involves scraping public-facing options data, developing an API using Flask, and utilizing MongoDB for data storage and management. Ultimatley looking to further my knoweldge on API devlopment. 
 
-View [Scrappers](https://github.com/jkor2/Baseball_Reference_Scrapper)
+View [Repository](https://github.com/jkor2/Sell_Options)
 
 
-View [API](https://github.com/jkor2/bball-API)
