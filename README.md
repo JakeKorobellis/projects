@@ -50,9 +50,9 @@ Live Here: [NewsRoom](https://newsroom-live.netlify.app/)
 
 ## Sell Options
 
-Frontend: React.js & Bootstrap.
-Backend: Python & Flask.
-Database: MongoDB
+Frontend: React.js & Bootstrap. <br>
+Backend: Python & Flask.<br>
+Database: MongoDB<br>
 
 I'm currently developing an advanced Stock Options platform that provides detailed analyses of potential traders that facilitate credit collection. The project entails scraping public options data, building a Flask API, and using MongoDB for efficient data storage and management. My primary goal is to enhance my skills in API development, while automating the process of manual calculation. Credit calculations will be available on the projects Readme.
 
